@@ -1,9 +1,8 @@
 const productos = [
   {
     id: 1,
-    nombre: 'Mouse',
+    nombre: 'Mouse Laser',
     precio: '1000',
-    1: 'Algo',
   },
   {
     id: 152,
