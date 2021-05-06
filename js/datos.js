@@ -6,8 +6,8 @@ const productos = [
   },
   {
     id: 152,
-    nombre: 'Teclado',
-    precio: '1500',
+    nombre: 'Teclado mecanico',
+    precio: '15000',
   },
   {
     id: 587,
